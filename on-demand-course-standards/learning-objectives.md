@@ -6,7 +6,7 @@
 
 **Guidelines**. The learning objectives should tell learners precisely what they will be able to do by the end of the section. Frame the objectives using action verbs and make sure the objectives are linked to performance tasks that can be measured and assessed.
 
-**Example**. Refer to [**dbt Fundamentals On-Demand**](https://learn.getdbt.com/learn/course/dbt-fundamentals/who-is-an-analytics-engineer-20min/introduction-to-analytics-engineering) for an example of a course with measurable, behavioral learning objectives in every course section.
+**Example**. Refer to [**dbt Fundamentals On-Demand**](https://learn.getdbt.com/learn/course/dbt-fundamentals) for an example of a course with measurable, behavioral learning objectives in every course section.
 
 **Visual.** Screenshot of dbt Fundamentals learning objectives
 
